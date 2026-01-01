@@ -18,7 +18,7 @@
     "@types/split": "^1.0.5",
     "@types/uuid": "^3.4.6",
     "@types/w3c-web-serial": "^1.0.7",
-    "express": "^4.20.0",
+    "express": "^4.22.0",
     "@electron-ci/echo": "file:./fixtures/native-addon/echo",
     "@electron-ci/is-valid-window": "file:./is-valid-window",
     "@electron-ci/uv-dlopen": "file:./fixtures/native-addon/uv-dlopen/",
